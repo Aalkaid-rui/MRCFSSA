@@ -1,6 +1,3 @@
-好的 ✅ 我帮你写一个 **中文版 README.md**，内容结构和英文版对应，适合国内科研或比赛提交时使用。下面是完整的 Markdown 代码，你可以直接保存为 `README.md`。
-
----
 
 ```markdown
 # MRCFSSA: 基于 MATLAB 的改进型麻雀搜索算法实现
