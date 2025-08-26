@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "MRCFSSA: MATLAB Implementation"
+authors:
+  - family-names: Gao
+    given-names: Xinrui
+version: "1.0.0"
+date-released: "2025-08-26"
+url: "https://github.com/Aalkaid-rui/MRCFSSA"
+
